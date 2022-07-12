@@ -1,4 +1,4 @@
-# RestApiSpringBootApi
+# Rest Api SpringBoot Basic Auth
 ## Basic Auth
 - Untuk komunikasi antar server. contoh payment gateway
 - Tidak cocok digunakan untuk mobile apps
